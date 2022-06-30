@@ -1,7 +1,7 @@
 package com.migros.ucg.abstract_classes.matters;
 
 import com.migros.ucg.abstract_classes.utility.MaddeTur;
-
+//deneme
 public class Kure extends AbstractMadde
 {
     private double yaricap;
