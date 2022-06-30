@@ -2,7 +2,7 @@ package com.migros.ucg.abstract_classes.matters;
 
 import com.migros.ucg.abstract_classes.utility.MaddeTur;
 
-//deneme
+//deneme yaptım
 public class Kup extends AbstractMadde
 {
     private double kenar;
